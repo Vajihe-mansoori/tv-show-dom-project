@@ -295,7 +295,13 @@ header {
 .x-movie-box :hover + .summary_box {
   display: block;
 }
-
+.link {
+  margin: 20px;
+  color: var(--text-color);
+}
+.link :hover {
+  color: var(--hover-color);
+}
 footer {
   display: flex;
   align-items: center;
