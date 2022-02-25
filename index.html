@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="shortcut icon"
+      href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREe0blrA-h-VJOAWTY1rIrbAVRZ3fAfUTlnlqb5m7SDPZ7XEBYH3Jy0T_r-Yu313EmaPs&usqp=CAU"
+      type="image/x-icon"
+    />
+    <link
+      href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <title>TV SHOW</title>
+  </head>
+  <body>
+    <header id="myHeader">
+      <div class="nav container">
+        <a href="index.html" class="logo"> <span>TV</span>show </a>
+        <div class="search-menu">
+          <select name="search-menu" id="search-menu"></select>
+        </div>
+        <div class="search-box">
+          <input
+            type="search"
+            name=""
+            id="the-filter"
+            class="search-input"
+            placeholder="Search movie"
+          />
+          <i class="bx bx-search"></i>
+        </div>
+        <a href="#" class="user">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREe0blrA-h-VJOAWTY1rIrbAVRZ3fAfUTlnlqb5m7SDPZ7XEBYH3Jy0T_r-Yu313EmaPs&usqp=CAU"
+            alt=""
+            class="user-img"
+          />
+        </a>
+        <div class="navbar">
+          <a href="index.html" class="nav-link">
+            <!-- nav-active -->
+            <i class="bx bxs-home"></i>
+            <span class="nav-link-title">Home</span>
+          </a>
+          <a href="#home" class="nav-link">
+            <i class="bx bxs-hot"></i>
+            <span class="nav-link-title">Trending</span>
+          </a>
+          <a href="#home" class="nav-link">
+            <i class="bx bx-heart"></i>
+            <span class="nav-link-title">Favourite</span>
+          </a>
+          <a href="#home" class="nav-link">
+            <i class="bx bxs-user-circle"></i>
+            <span class="nav-link-title">Login</span>
+          </a>
+        </div>
+      </div>
+    </header>
+    <section class="all-container">
+      <section class="home container" id="home">
+        <img src="img/user.jpg" class="home-img" alt="" />
+      </section>
+      <section class="container movies" id="movies">
+        <div class="heading-tv-show">
+          <h2 class="heading-tv-show-title">Movies</h2>
+        </div>
+        <div class="movies-content" id="movies-content"></div>
+      </section>
+    </section>
+
+    <!-- show movie -->
+    <section class="show-movie-container container" id="show-movie-container">
+      <section class="x-container x-movies" id="movies">
+        <div class="movie-content" id="movie-content"></div>
+      </section>
+    </section>
+
+    <footer>
+      <div class="footer">
+        <a href="https://www.linkedin.com/in/vajihe-mansoori-013953225/"
+          ><i class="bx bxl-linkedin-square"></i
+        ></a>
+        <a href="https://github.com/vajihe-mansoori"
+          ><i class="bx bxl-github"></i
+        ></a>
+        <a href="#"><i class="bx bxl-telegram"></i></a>
+        <a href="https://www.instagram.com/vajihe.mns/"
+          ><i class="bx bxl-instagram-alt"></i
+        ></a>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>

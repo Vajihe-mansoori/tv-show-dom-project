@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Game Of Thrones",
+    "Genre": "Fantasy | Serial drama | Tragedy",
+    "rating": 9.2,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81iZ0r1HvmL.jpg"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "Genre": "Drama | Romance | Supernatural",
+    "rating": 7.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BODhiODk3NWEtZmNiYi00N2NlLThlN2YtN2VkYTYyMjQxMWEzXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg"
+  },
+  {
+    "name": "Dark",
+    "Genre": " Drama | Science-Fiction | Supernatural",
+    "rating": 8.8,
+    "image": "https://flxt.tmsimg.com/assets/p14652158_b_v13_az.jpg"
+  },
+  {
+    "name": "The Nevers",
+    "Genre": "Drama | Supernatural",
+    "rating": 7.4,
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8XB51FIxG7EAJ3yJHBqs9Z6azDEYrbOWrFrdOFpvoE1IZApD5"
+  },
+  {
+    "name": "Sherlock",
+    "Genre": "Drama | Crime | Mystery",
+    "rating": 9.1,
+    "image": "https://flxt.tmsimg.com/assets/p8989411_b_v8_aa.jpg"
+  },
+  {
+    "name": "The Sopranos",
+    "Genre": "Crime drama | Serial drama",
+    "rating": 9.2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHOvOq-Ogk4oz6d49RxNbnYRSYug2T8gJ-rcTjokrjoLwtFYtR"
+  },
+  {
+    "name": "Planet Earth II",
+    "Genre": "Nature documentary",
+    "rating": 9.5,
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjXUJtR4D8kvlwXTlbLPnwZsD1bIfXKrQd5eOBLxUKByME8mPx"
+  },
+  {
+    "name": "True Detective",
+    "Genre": "Crime drama | Mystery",
+    "rating": 8.9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMmXCvnh35I7wIuXlkhJkKknqa6GxFNONV7_-O7ZoBS81a9OT0C9PWhoGAuxpZ2fo-oi0&usqp=CAU"
+  },
+  {
+    "name": "Fresh Prince",
+    "Genre": "Sitcom",
+    "rating": 7.9,
+    "image": "https://m.media-amazon.com/images/M/MV5BOGUxOWQ4MzAtMmJjYS00M2U5LWEwZTAtYTc1YmZhNjg2NDRlXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"
+  },
+  {
+    "name": "The Wire",
+    "Genre": "Crime drama | Serial drama | Tragedy",
+    "rating": 9.3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqec8OeubHr3q0AQupvZtOq2pLXsTdlbA2GSOVSGv3NVqL95Do"
+  },
+  {
+    "name": "Mythbusters",
+    "Genre": "Factual television | Science | Technology",
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc4ZmZlNjEtY2ZiOC00NTZjLThjNDAtN2NmYzQ0OGFlNzliXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_.jpg"
+  },
+  {
+    "name": "Scrapheap Challenge",
+    "Genre": "Game show",
+    "rating": 7.3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6X_ufVnFUjfAbzVcYeX1BoUlA42WDEUIEz66QA7vp7OscqeRo"
+  }
+]
